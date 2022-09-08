@@ -584,7 +584,7 @@
 .u-section-3 .u-shape-1 {
   width: 315px;
   height: 256px;
-  margin: -682px auto 427px;
+  margin: -682px auto 426px;
 }
 
 @media (max-width: 1199px) {
@@ -623,10 +623,6 @@
   .u-section-3 .u-text-1 {
     font-size: 1.875rem;
     margin-top: 1px;
-  }
-
-  .u-section-3 .u-shape-1 {
-    margin-bottom: 426px;
   }
 }
 
